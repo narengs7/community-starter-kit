@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Understanding Github Bot tutorial, learning from Machine
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Writing things and commit them
+- Change branch and make changes and commit them for PR 
 
 ## Getting started
 
